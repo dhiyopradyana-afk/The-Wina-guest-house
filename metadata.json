@@ -1,0 +1,6 @@
+{
+  "name": "The Wina Guest House",
+  "description": "Luxury boutique accommodation in Canggu, Bali with direct WhatsApp reservations, rooms, facilities, and Canggu SEO travel guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
